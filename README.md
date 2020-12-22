@@ -17,6 +17,14 @@
 * https://pypi.org/project/vulture/ - finds unused code in Python programs
 
 
+## Type hints/checking
+
+
+### Python
+
+* https://github.com/python-desert/desert - generates serialization schemas for dataclasses and attrs classes
+* https://github.com/agronholm/typeguard - provides run-time type checking for functions defined with PEP 484 argument (and return) type annotations
+
 ## Web Frameworks
 
 ### Python
