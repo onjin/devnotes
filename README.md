@@ -1,5 +1,12 @@
 # My bookmarks / notes
 
+## Access control
+
+### Python
+
+* https://github.com/kolotaev/vakt 
+* https://github.com/casbin/pycasbin
+
 ## Clean architecture
 
 ### Python
