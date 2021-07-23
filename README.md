@@ -4,8 +4,8 @@
 
 ### Python
 
-* https://github.com/kolotaev/vakt 
-* https://github.com/casbin/pycasbin
+* https://github.com/kolotaev/vakt - an attribute-based and policy-based access control (ABAC) toolkit that is based on policies
+* https://github.com/casbin/pycasbin -  a powerful and efficient open-source access control library
 
 ## Clean architecture
 
@@ -31,6 +31,14 @@
 
 * https://github.com/python-desert/desert - generates serialization schemas for dataclasses and attrs classes
 * https://github.com/agronholm/typeguard - provides run-time type checking for functions defined with PEP 484 argument (and return) type annotations
+
+
+## HTTP Clients
+
+### Python
+
+* https://httpie.io/ - a user-friendly command-line HTTP client for the API
+* https://github.com/httpie/http-prompt - an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 
 ## Web Frameworks
 
