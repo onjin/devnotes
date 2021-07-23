@@ -35,7 +35,7 @@
 
 ## HTTP Clients
 
-### Python
+### CLI
 
 * https://httpie.io/ - a user-friendly command-line HTTP client for the API
 * https://github.com/httpie/http-prompt - an interactive command-line HTTP client featuring autocomplete and syntax highlighting
